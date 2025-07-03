@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/pkirdat3/ranosys-demo-appbuilder-priyanka/
+    type: markup
+
+folders:
+  /products/: /products/default
